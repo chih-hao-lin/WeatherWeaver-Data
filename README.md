@@ -30,3 +30,14 @@ Links to each scenes:
 
 ### Generation Data
 - [Link to dataset](https://huggingface.co/datasets/chih-hao-lin/WeatherWeaver_generation)
+
+## Citation
+If you find our work useful, please consider citing:
+```bibtex
+@article{WeatherWeaver,
+    author = {Chih-Hao Lin and Zian Wang and Ruofan Liang and Yuxuan Zhang and Sanja Fidler and Shenlong Wang and Zan Gojcic},
+    title = {Controllable Weather Synthesis and Removal with Video Diffusion Models},
+    journal = {IEEE/CVF International Conference on Computer Vision (ICCV)},
+    year = {2025}
+}
+```
